@@ -1,7 +1,10 @@
-# Hi, I'm **Zhanat**! 👋
-## I'm a junior *Front-end developer* from Minsk.
+# Hi, I'm **Zhanat**! 👋👩‍💻
+## I'm a junior *Front-end developer* from Minsk 🇧🇾
 
+## About me: I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. Currently, I am looking for new career opportunities my current job position cannot provide 🙂🖥️🍀🥰 🎯
 
+### mail me: zhankaam@gmail.com 🌐
+### linkedin profile: https://www.linkedin.com/in/zhanat-lepesbayeva-937a06201/ 📱
 
 ### My skills: 
 ![HTML](https://img.shields.io/badge/-html5-orange?style=for-the-badge&logo=html5)
@@ -22,12 +25,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a startup
+- 🌱 I’m currently learning web development 👩‍💻
+- 📫 How to reach me: https://www.linkedin.com/in/zhanat-lepesbayeva-937a06201/
+
