@@ -13,7 +13,8 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-ff69bn?style=for-the-badge&logo=Storybook)
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-blueviolet?style=for-the-badge&logo=ReduxToolkit)
 ![SASS](https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS)
-![MaterialUI](https://img.shields.io/badge/-materialUI-orange?style=for-the-badge&logo=MaterialUI)
+![ANTdesign](https://img.shields.io/badge/-antdesign-white?style=for-the-badge&logo=AntDesign)
+![Material-UI](https://img.shields.io/badge/-material-UI-blue?style=for-the-badge&logo=Material-UI)
 
 
 <!--
