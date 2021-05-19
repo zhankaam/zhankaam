@@ -7,8 +7,8 @@
 ![HTML](https://img.shields.io/badge/-html5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=TypeScript)
-![React]
+![TypeScript](https://img.shields.io/badge/-TypeScript-#3178C6?style=for-the-badge&logo=TypeScript)
+![ReactJs]()
 <!--
 **zhankaam/zhankaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
