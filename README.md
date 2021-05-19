@@ -4,7 +4,7 @@
 
 
 ### My skills: 
-https://img.shields.io/badge/-html5-orange
+![HTML](https://img.shields.io/badge/-html5-orange)
 <!--
 **zhankaam/zhankaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
