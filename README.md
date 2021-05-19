@@ -12,6 +12,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=Redux)
 ![Storybook](https://img.shields.io/badge/-Storybook-ff69bn?style=for-the-badge&logo=Storybook)
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-blueviolet?style=for-the-badge&logo=ReduxToolkit)
+![SASS](https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS)
 
 
 <!--
