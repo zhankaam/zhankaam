@@ -14,7 +14,7 @@
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-blueviolet?style=for-the-badge&logo=ReduxToolkit)
 ![SASS](https://img.shields.io/badge/-SASS-white?style=for-the-badge&logo=SASS)
 ![ANTdesign](https://img.shields.io/badge/-antdesign-white?style=for-the-badge&logo=AntDesign)
-![Material-UI](https://img.shields.io/badge/-Material-UI-#0081CB?style=for-the-badge&logo=Material-UI)
+![materialUI](https://img.shields.io/badge/-Material-UI-blue?style=for-the-badge&logo=Material-UI)
 
 
 <!--
