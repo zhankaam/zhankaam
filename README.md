@@ -1,10 +1,10 @@
 # Hi, I'm **Zhanat**! 👋
-## I'm junior *Front-end developer* from Minsk.
+## I'm a junior *Front-end developer* from Minsk.
 
 
 
 ### My skills: 
-![HTML](https://img.shields.io/badge/-HTML -090909?style=for-the-badge&logo=html5)
+https://img.shields.io/badge/-<HTML5>-<important>
 <!--
 **zhankaam/zhankaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
