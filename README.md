@@ -3,7 +3,11 @@
 
 ![Codewars](https://www.codewars.com/users/zhankaam/badges/small)
 
-## About me: I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time✨👀
+**About me: **
+
+- 💼 FrontEnd Developer 👩🏻‍💻
+
+- 💬 Ask me about anything [here](https://by.linkedin.com/in/zhanat-lepesbayeva-937a06201)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
