@@ -3,7 +3,7 @@
 
 ![Codewars](https://www.codewars.com/users/zhankaam/badges/small)
 
-**About me: **
+**About me:**
 
 - 💼 FrontEnd Developer 👩🏻‍💻
 
