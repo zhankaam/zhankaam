@@ -1,7 +1,7 @@
 # Hi, I'm **Zhanat**! 👋🏻👩🏻‍💻
 ## I'm a *Front-end developer* from Minsk 🇧🇾
 
-![Codewars](https://www.codewars.com/users/lps_va/badges/small)
+![Codewars](https://www.codewars.com/users/zhankaam/badges/small)
 
 ## About me: I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time✨👀
 
