@@ -17,5 +17,8 @@
 ![materialUI](https://img.shields.io/badge/-materialUI-blue?style=for-the-badge&logo=materialUI)
 
 
+| <a href="https://github.com/zhankaam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhankaam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zhanat's github stats" /></a> | <a href="https://github.com/zhankaam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhankaam&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--
 **zhankaam/zhankaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
